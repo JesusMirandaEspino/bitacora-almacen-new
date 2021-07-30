@@ -1,5 +1,5 @@
 // Clase para la informacion que estara llenando el jefe de almacen
-class JefeAlmacen {
+export class Ruta {
   ronda: Number;
 
   // Este es asignado preliminarmente por un administrador
